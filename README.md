@@ -1,6 +1,6 @@
 INSERTION SORT 
 
- [Patika.dev](https://www.patika.dev/tr)
+ [Patika.dev] https://app.patika.dev/vedatbudak
 
 
 [22,27,16,2,18,6] 
